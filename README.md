@@ -23,8 +23,9 @@
 
  * Automatic Generate The transform Matrix Based on specific Robot Configuration
    
-   E.G. The 1 - 3 Transform Matrix for Following Robot Mechanism
+   E.G. The 1 - 3 Coordinate Transform Matrix for Following Robot Mechanism
    
  ![](Pics/A1_3.png)
  
  ![](Pics/robot_configuration.png)
+
