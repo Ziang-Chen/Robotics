@@ -2,14 +2,14 @@
 #### By Ziang Chen @ Kings College London
 #### Original
 
-### The main function
+## The main function
   * Numeric Calcultate
   * Coordinate Transform
   * Symbolic Calcultate
   * Direct kinematic
   * Fomula Deductive
 
-### Function Illustrate
+## Function Illustrate
  
  * The transform_matrix
  
