@@ -2,13 +2,17 @@
 #### By Ziang Chen @ Kings College London
 #### Original
 
-1. The main function
+### The main function
   * Numeric Calcultate
   * Coordinate Transform
   * Symbolic Calcultate
   * Direct kinematic
   * Fomula Deductive
 
-Function Illustrate
+### Function Illustrate
+ 
+ * The transform_matrix
+ ![](Pics/transform_matrix.png) 
 
-![](Pic/transform_matrix.png)
+ 
+
