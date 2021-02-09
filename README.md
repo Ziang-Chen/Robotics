@@ -14,11 +14,23 @@ The application obviously contains **coordinate transform, Direct/ Inverse Kinem
 
 Using such math tool, it also can easly represently the most advanced topic like **Lie Algebra** and **non-linear control**
 
+It is not aim to some specific examples or particular robot configuration, it is more generally tool for realize ever related topic coverd in Robotics, But the follow documents will shows some examples Based on **Topic**, **Function** and **Calculation** in Robotics, organised by Guide which includes some specific topic and Advanced Topic which inclueds more math but more useful in Research and practice.
 
-## Functions
-### Coordinate Related
+
+## Guide
+### Coordinate Transform
 ### Kinematic
-##
+### Dynamic
+### Trajectory
+
+
+## Advanced Topic
+### Patrial Differentiate
+### Vector, Matrix and Tensor
+### Tagent Space, Invariance and Covariance Transform
+### Lie Algebra
+### Linear and Non Linear
+
 
 ## The main function
   * Numeric Calculate
@@ -31,7 +43,7 @@ Using such math tool, it also can easly represently the most advanced topic like
 
 
 
-## Function Illustrate
+## Screenshots
 
  * Tensor Representation And Transform
  
