@@ -12,9 +12,9 @@ The math functor realized include **partial differential** ,**Jacobian**, **tens
 
 The application obviously contains **coordinate transform, Direct/ Inverse Kinematic, Dynamics** and **Trajectory Planning**
 
-Using such math tool, it also can easly represently the most advanced topic like **Lie Algebra** and **non-linear control**
+Using such math tool, it also can easly represent the most advanced topic like **Lie Algebra** and **non-linear control**
 
-It is not aim to some specific examples or particular robot configuration, it is more generally tool for realize ever related topic coverd in Robotics, But the follow documents will shows some examples Based on **Topic**, **Function** and **Calculation** in Robotics, organised by Guide which includes some specific topic and Advanced Topic which inclueds more math but more useful in Research and practice.
+It is not aim to some specific examples or particular robot configuration, it is more generally tool for realize ever related topic coverd in Robotics, the following documents will shows some examples Based on **Topic**, **Function** and **Calculation** in Robotics using this project, organised by **Guide** which includes some specific topic and **Advanced Topic** which inclueds more math but more useful in both Research and practice.
 
 
 ## Guide
