@@ -53,9 +53,9 @@ It is not aim to some specific examples or particular robot configuration, it is
 
 
 
-## Screenshots
-For Run time Screenshots Please Goto
-[Screenshots](https://github.com/ZiangChenKCL/Robotics/blob/main/Screenshoots.md)
+## Run time Screenshoots
+For Run time Screenshoots Please Goto
+[Screenshoots](https://github.com/ZiangChenKCL/Robotics/blob/main/Screenshoots.md)
 
 
 
