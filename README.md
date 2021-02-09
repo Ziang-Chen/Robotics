@@ -1,5 +1,5 @@
 # Robotics Tool Set
-#### By Ziang Chen @ Kings College London
+#### Ziang Chen @ Kings College London
 #### Original
 
 ## The main function
