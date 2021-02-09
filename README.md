@@ -3,11 +3,13 @@
 #### Original
 
 ## The main function
-  * Numeric Calcultate
+  * Numeric Calculate
   * Coordinate Transform
-  * Symbolic Calcultate
+  * Symbolic Calculate
   * Direct kinematic
   * Fomula Deductive
+  * Dynamic Calculate
+  * Jacobian
 
 ## Function Illustrate
  
