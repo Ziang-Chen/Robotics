@@ -1,10 +1,10 @@
-# D-H-Calculation
+# Robotics Tool Set
+#### By Ziang Chen @ Kings College London
+#### Original
 
-The main function
-  Numeric Calcultate
-  
-  Symbolic Calcultate
-  
-  Direct kinematic
-  
-  Fomula Deductive
+1. The main function
+  * Numeric Calcultate
+  * Coordinate Transform
+  * Symbolic Calcultate
+  * Direct kinematic
+  * Fomula Deductive
