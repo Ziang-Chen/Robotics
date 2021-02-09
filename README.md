@@ -15,5 +15,9 @@
  
  ![](Pics/transform_matrix.png) 
 
+ * Numeric Calculation
  
+   E.G. Theta_i=pi/2
+   
+ ![](Pics/thetapi2.png)
 
