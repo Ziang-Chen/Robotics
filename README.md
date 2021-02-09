@@ -17,22 +17,27 @@ Using such math tool, it also can easly represently the most advanced topic like
 It is not aim to some specific examples or particular robot configuration, it is more generally tool for realize ever related topic coverd in Robotics, But the follow documents will shows some examples Based on **Topic**, **Function** and **Calculation** in Robotics, organised by Guide which includes some specific topic and Advanced Topic which inclueds more math but more useful in Research and practice.
 
 
-## Guide
-### Coordinate Transform
-### Kinematic
-### Dynamic
-### Trajectory
+# Guide
+#### Coordinate Transform
+ * Transfom Matrix
+ * Screw Theory
+ * Arm Equation
+#### Kinematic
+ * Direct Kinematic
+ * Inverse Kinematic
+#### Dynamic
+#### Trajectory Planning
 
 
 ## Advanced Topic
-### Patrial Differentiate
-### Vector, Matrix and Tensor
-### Tagent Space, Invariance and Covariance Transform
-### Lie Algebra
-### Linear and Non Linear
+#### Single Variable Analysis
+#### Matrix Analysis
+#### Tagent Space, Invariance and Covariance Transform
+#### Lie Algebra
+#### Linear and Non Linear
 
 
-## The main function
+## Interface Handbook
   * Numeric Calculate
   * Coordinate Transform
   * Symbolic Calculate
