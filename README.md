@@ -21,3 +21,8 @@
    
  ![](Pics/thetapi2.png)
 
+ * Automatic Generate The transform Matrix Based on specific Robot Configuration
+   
+ ![](Pics/A1_3.png)
+ 
+ 
