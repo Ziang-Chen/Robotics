@@ -51,7 +51,10 @@ It is not aim to some specific examples or particular robot configuration, it is
   * Jacobian
 
 ## Transform Matrix
-![](https://latex.codecogs.com/gif.latex?\left[\begin{matrix}\cos{\left(\theta_{i}%20\right)}%20&%20-%20\sin{\left(\theta_{i}%20\right)}%20\cos{\left(\alpha_{i}%20\right)}%20&%20\sin{\left(\alpha_{i}%20\right)}%20\sin{\left(\theta_{i}%20\right)}%20&%20a_{i}%20\cos{\left(\theta_{i}%20\right)}\\\sin{\left(\theta_{i}%20\right)}%20&%20\cos{\left(\alpha_{i}%20\right)}%20\cos{\left(\theta_{i}%20\right)}%20&%20-%20\sin{\left(\alpha_{i}%20\right)}%20\cos{\left(\theta_{i}%20\right)}%20&%20a_{i}%20\sin{\left(\theta_{i}%20\right)}\\0%20&%20\sin{\left(\alpha_{i}%20\right)}%20&%20\cos{\left(\alpha_{i}%20\right)}%20&%20d_{i}\\0%20&%200%20&%200%20&%201\end{matrix}\right])
+
+$$
+\theta
+$$
 
 ## Run time Screenshoots
 For Run time Screenshoots Please Goto
