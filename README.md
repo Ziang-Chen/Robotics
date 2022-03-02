@@ -52,9 +52,7 @@ It is not aim to some specific examples or particular robot configuration, it is
 
 ## Transform Matrix
 
-$$
-\theta
-$$
+![](Pics/tensor_transform.png)
 
 ## Run time Screenshoots
 For Run time Screenshoots Please Goto
